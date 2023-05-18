@@ -1,0 +1,26 @@
+.default-message{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+   
+
+}
+body{
+    background-image: url(../public/dgii_logo.png);
+    background-repeat: no-repeat;
+    background-position: bottom right; 
+    height: 100vh;
+    background-size: 500px;
+}
+.navbar {
+    background: green;
+    .container{
+        a{
+            img{
+                width: 188px;
+            }
+        }
+    }
+}

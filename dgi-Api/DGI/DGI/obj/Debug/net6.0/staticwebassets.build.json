@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "b5IF6KfhIsGb52yUj+etqfVCgKu3Yh/b72KzD9sJ//0=",
+  "Source": "DGI.Api",
+  "BasePath": "_content/DGI.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
